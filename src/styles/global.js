@@ -7,6 +7,7 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
     outline: 0;
   }
+
   body {
     background: #9b65e6;
     text-rendering: optimizeLegibility !important;
