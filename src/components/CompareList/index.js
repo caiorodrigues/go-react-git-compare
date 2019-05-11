@@ -12,34 +12,13 @@ const ComponentList = () => (
       </header>
       <ul>
         <li>
-          95,019 <small>stars</small>
+          95.019 <small>stars</small>
         </li>
         <li>
-          95,019 <small>forks</small>
+          95.019 <small>forks</small>
         </li>
         <li>
-          95,019 <small>issues</small>
-        </li>
-        <li>
-          3 days ago <small>last commit</small>
-        </li>
-      </ul>
-    </Repository>
-    <Repository>
-      <header>
-        <img src="https://avatar3.githubusercontent.com/u/69631?v=4" alt="facebook" />
-        <strong>react</strong>
-        <small>facebook</small>
-      </header>
-      <ul>
-        <li>
-          95,019 <small>stars</small>
-        </li>
-        <li>
-          95,019 <small>forks</small>
-        </li>
-        <li>
-          95,019 <small>issues</small>
+          95.019 <small>issues</small>
         </li>
         <li>
           3 days ago <small>last commit</small>
@@ -54,13 +33,34 @@ const ComponentList = () => (
       </header>
       <ul>
         <li>
-          95,019 <small>stars</small>
+          95.019 <small>stars</small>
         </li>
         <li>
-          95,019 <small>forks</small>
+          95.019 <small>forks</small>
         </li>
         <li>
-          95,019 <small>issues</small>
+          95.019 <small>issues</small>
+        </li>
+        <li>
+          3 days ago <small>last commit</small>
+        </li>
+      </ul>
+    </Repository>
+    <Repository>
+      <header>
+        <img src="https://avatar3.githubusercontent.com/u/69631?v=4" alt="facebook" />
+        <strong>react</strong>
+        <small>facebook</small>
+      </header>
+      <ul>
+        <li>
+          95.019 <small>stars</small>
+        </li>
+        <li>
+          95.019 <small>forks</small>
+        </li>
+        <li>
+          95.019 <small>issues</small>
         </li>
         <li>
           3 days ago <small>last commit</small>
