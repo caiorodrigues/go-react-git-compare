@@ -14,16 +14,24 @@ const ComponentList = ({ repositories }) => (
         </header>
         <ul>
           <li>
-            {repository.stargazers_count} <small>stars</small>
+            {repository.stargazers_count}
+            {' '}
+            <small>stars</small>
           </li>
           <li>
-            {repository.forks_count} <small>forks</small>
+            {repository.forks_count}
+            {' '}
+            <small>forks</small>
           </li>
           <li>
-            {repository.open_issues_count} <small>issues</small>
+            {repository.open_issues_count}
+            {' '}
+            <small>issues</small>
           </li>
           <li>
-            {repository.pushed_at} <small>last commit</small>
+            {repository.lastCommit}
+            {' '}
+            <small>last commit</small>
           </li>
         </ul>
       </Repository>
